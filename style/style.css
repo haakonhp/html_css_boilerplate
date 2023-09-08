@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section, article {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    display: flex;
+
+}
+
+.item {
+
+}
